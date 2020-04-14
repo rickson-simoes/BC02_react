@@ -5,6 +5,9 @@
   "repository": "https://github.com/rickson-simoes/BC02_frontend_react.git",
   "author": "Rickson <rickson.simoes@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev" : "webpack-dev-server --mode development"
+  },
   "dependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
